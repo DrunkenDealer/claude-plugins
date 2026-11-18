@@ -35,11 +35,6 @@ is graded for layout, contrast and store rules before the deck is published to [
 as a link you keep editing, translate and download in every size.
 [Repo and docs →](https://github.com/DrunkenDealer/claude-code-vitrine-deck)
 
-## Switching from the old catalog
-
-**Added `mashlab` from `DrunkenDealer/claude-code-qa-cycle` before?** That catalog lists QA Cycle only. Switch with
-`/plugin marketplace remove mashlab`, add this one, then install your plugins again — removing a marketplace uninstalls its plugins.
-
 ## License
 
 [MIT](LICENSE) © Max Shwed
