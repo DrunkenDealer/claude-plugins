@@ -13,7 +13,7 @@ Each plugin lives in its own repo; this one only lists them.
 | [Vitrine Deck](https://github.com/DrunkenDealer/claude-code-vitrine-deck) | `/plugin install vitrine-deck@mashlab` | App Store and Google Play screenshots, art-directed end to end and published to [Vitrine](https://vitrine.mashlab.app) as a deck you keep editing |
 
 **Added `mashlab` from `DrunkenDealer/claude-code-qa-cycle` before?** That catalog lists QA Cycle only. Switch with
-`/plugin marketplace remove mashlab`, then add this one; installed plugins keep working.
+`/plugin marketplace remove mashlab`, add this one, then install your plugins again — removing a marketplace uninstalls its plugins.
 
 ## License
 
