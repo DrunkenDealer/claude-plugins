@@ -8,6 +8,8 @@ it calls the job done. Each one lives in its own repo; this one only lists them.
 /plugin marketplace add DrunkenDealer/claude-plugins
 ```
 
+<table><tr><td>
+
 ## QA Cycle
 
 [![QA Cycle: whole-app QA for Claude Code, run by a team of agents](https://raw.githubusercontent.com/DrunkenDealer/claude-code-qa-cycle/main/assets/social-preview.png)](https://github.com/DrunkenDealer/claude-code-qa-cycle)
@@ -20,6 +22,10 @@ Whole-app QA by a team of agents. It maps every feature from the code, tests eac
 parallel, and hands you a bug list to approve. It then fixes the approved bugs in isolated git worktrees, and a
 fresh agent verifies every fix, cycle after cycle, until nothing you asked to fix is left. Android, iOS, web and
 non-UI code. [Repo and docs →](https://github.com/DrunkenDealer/claude-code-qa-cycle)
+
+</td></tr></table>
+
+<table><tr><td>
 
 ## Vitrine Deck
 
@@ -34,6 +40,8 @@ captures its own on a simulator or emulator, and plans the slides with you in on
 is graded for layout, contrast and store rules before the deck is published to [Vitrine](https://vitrine.mashlab.app)
 as a link you keep editing, translate and download in every size.
 [Repo and docs →](https://github.com/DrunkenDealer/claude-code-vitrine-deck)
+
+</td></tr></table>
 
 ## License
 
