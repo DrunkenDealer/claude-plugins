@@ -1,6 +1,6 @@
 {
   "name": "mashlab",
-  "description": "Claude Code plugins by Max Shwed: QA Cycle (whole-app QA, fixing and verification by a team of agents) and Vitrine Deck (App Store and Google Play screenshots).",
+  "description": "Claude Code plugins by Max Shwed: QA Cycle (whole-app QA, fixing and verification by a team of agents), Vitrine Deck (App Store and Google Play screenshots) and ASO Kit (App Store and Google Play text ASO).",
   "owner": {
     "name": "Max Shwed",
     "url": "https://github.com/DrunkenDealer"
@@ -27,6 +27,17 @@
       },
       "category": "design",
       "tags": ["app-store", "google-play", "screenshots", "aso"]
+    },
+    {
+      "name": "aso-kit",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/DrunkenDealer/claude-code-aso-kit.git",
+        "path": "plugin",
+        "ref": "main"
+      },
+      "category": "marketing",
+      "tags": ["aso", "app-store", "google-play", "keywords"]
     }
   ]
 }

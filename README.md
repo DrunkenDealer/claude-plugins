@@ -1,8 +1,8 @@
 # Mash Lab plugins for Claude Code
 
 The `mashlab` marketplace: one catalog for the Claude Code plugins from [Mash Lab](https://mashlab.app). Each plugin
-takes a whole job off your hands — testing an app, designing its store screenshots — and checks its own work before
-it calls the job done. Each one lives in its own repo; this one only lists them.
+takes a whole job off your hands — testing an app, designing its store screenshots, writing its store listing — and
+checks its own work before it calls the job done. Each one lives in its own repo; this one only lists them.
 
 ```
 /plugin marketplace add DrunkenDealer/claude-plugins
@@ -40,6 +40,22 @@ captures its own on a simulator or emulator, and plans the slides with you in on
 is graded for layout, contrast and store rules before the deck is published to [Vitrine](https://vitrine.mashlab.app)
 as a link you keep editing, translate and download in every size.
 [Repo and docs →](https://github.com/DrunkenDealer/claude-code-vitrine-deck)
+
+</td></tr></table>
+
+<table><tr><td>
+
+## ASO Kit
+
+```
+/plugin install aso-kit@mashlab
+```
+
+The text side of App Store and Google Play optimization. It reads your repo and the live stores, researches
+keywords per market, and writes title, subtitle, keyword field and descriptions for both stores, graded against
+store limits and policy before you paste them. Every store fact it relies on is sourced and dated. Screenshots get
+an optional brief that Vitrine Deck builds from.
+[Repo and docs →](https://github.com/DrunkenDealer/claude-code-aso-kit)
 
 </td></tr></table>
 
