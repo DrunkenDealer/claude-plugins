@@ -47,6 +47,8 @@ as a link you keep editing, translate and download in every size.
 
 ## ASO Kit
 
+[![ASO Kit: App Store and Google Play text ASO from your repo, every field graded before you paste it](https://raw.githubusercontent.com/DrunkenDealer/aso-kit/main/assets/social-preview.png)](https://github.com/DrunkenDealer/aso-kit)
+
 ```
 /plugin install aso-kit@mashlab
 ```
