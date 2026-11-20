@@ -32,7 +32,7 @@
       "name": "aso-kit",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/DrunkenDealer/claude-code-aso-kit.git",
+        "url": "https://github.com/DrunkenDealer/aso-kit.git",
         "path": "plugin",
         "ref": "main"
       },

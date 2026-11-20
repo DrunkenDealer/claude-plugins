@@ -55,7 +55,7 @@ The text side of App Store and Google Play optimization. It reads your repo and 
 keywords per market, and writes title, subtitle, keyword field and descriptions for both stores, graded against
 store limits and policy before you paste them. Every store fact it relies on is sourced and dated. Screenshots get
 an optional brief that Vitrine Deck builds from.
-[Repo and docs →](https://github.com/DrunkenDealer/claude-code-aso-kit)
+[Repo and docs →](https://github.com/DrunkenDealer/aso-kit)
 
 </td></tr></table>
 
